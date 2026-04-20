@@ -10,3 +10,9 @@
 /.clang-tidy
 **/.test
 /.appanalyzer
+# 签名文件（私钥，绝对不能提交）
+/signing/
+*.p12
+*.p7b
+*.cer
+*.csr
