@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "赛博朋克休闲游戏合集"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "赛博朋克休闲游戏合集"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "赛博游戏厅"
+    },
+    {
+      "name": "game_score",
+      "value": "得分"
+    },
+    {
+      "name": "game_best",
+      "value": "最高"
+    },
+    {
+      "name": "game_new_game",
+      "value": "新游戏"
+    },
+    {
+      "name": "game_hint",
+      "value": "滑动方块，合并相同数字，挑战2048！"
+    },
+    {
+      "name": "game_you_win",
+      "value": "你赢了！"
+    },
+    {
+      "name": "game_game_over",
+      "value": "游戏结束"
+    },
+    {
+      "name": "game_continue",
+      "value": "继续"
+    },
+    {
+      "name": "game_try_again",
+      "value": "再来一局"
+    },
+    {
+      "name": "game_2048_desc",
+      "value": "滑动合并，挑战2048"
+    },
+    {
+      "name": "game_minesweeper_desc",
+      "value": "排查漏洞，部署防火墙"
+    },
+    {
+      "name": "game_snake_desc",
+      "value": "驾驭数据蠕虫，吞噬数据包"
+    },
+    {
+      "name": "game_breakout_desc",
+      "value": "发射数据包，突破防火墙"
+    },
+    {
+      "name": "game_sudoku_desc",
+      "value": "破译密码，填满密钥矩阵"
+    },
+    {
+      "name": "game_memory_desc",
+      "value": "扫描内存，配对数据碎片"
+    },
+    {
+      "name": "game_reaction_desc",
+      "value": "拦截入侵警报，考验反应速度"
+    },
+    {
+      "name": "game_pianotiles_desc",
+      "value": "精准点击黑块，挑战极限速度"
+    }
+  ]
+}

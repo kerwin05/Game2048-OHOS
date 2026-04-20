@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/game2048/Game2048Page",
+    "pages/minesweeper/MineSweeperPage",
+    "pages/snake/SnakePage",
+    "pages/breakout/BreakoutPage",
+    "pages/sudoku/SudokuPage",
+    "pages/memory/MemoryPage",
+    "pages/reaction/ReactionPage",
+    "pages/pianotiles/PianoTilesPage"
+  ]
+}
