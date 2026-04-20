@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "storeFile": "/Users/kerwin/Desktop/Kerwin/OHOS/Game2048/signing/cyberarcade.p12",
+          "storePassword": "0000001AAF532FBE2FF0D14010568D9E919260E32E1B9E9AA1E5B4E89695D22C8BE3C49FB48FE0FFCD71",
+          "keyAlias": "cyberarcade",
+          "keyPassword": "0000001A567784AE2EF7114A50F513186B94A74FC62E1777968D718C3A0C87F75F4311D2F1EEB175A1CB",
+          "signAlg": "SHA256withECDSA",
+          "profile": "/Users/kerwin/Desktop/Kerwin/OHOS/Game2048/signing/cyberarcade_release.p7b",
+          "certpath": "/Users/kerwin/Desktop/Kerwin/OHOS/Game2048/signing/cyberarcade_release.cer"
+        }
+      }
+    ],
     "products": [
       {
         "name": "default",
