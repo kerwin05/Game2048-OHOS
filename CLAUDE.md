@@ -12,7 +12,7 @@
 - 项目名称：**Game2048**（休闲游戏聚合 App，主打 2048）
 - HarmonyOS NEXT（API 12 / SDK 6.0.2）项目，Stage 模型。
 - 构建系统：Hvigor，包管理器：OHPM。
-- Bundle 名称：`com.kerwin.game2048`
+- Bundle 名称：`com.kerwin.cyberarcade`
 - 入口模块：`entry/`，主页面在 `entry/src/main/ets/pages/`。
 - 应用级配置：`AppScope/app.json5`。
 - 模块清单：`entry/src/main/module.json5`。

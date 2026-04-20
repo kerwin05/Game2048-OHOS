@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.kerwin.game2048",
+    "bundleName": "com.kerwin.cyberarcade",
     "vendor": "Kerwin",
     "versionCode": 1,
     "versionName": "1.0.0",
