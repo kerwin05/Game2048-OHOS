@@ -55,9 +55,9 @@ fi
 echo ""
 echo "[3/3] 重命名输出文件..."
 
-# 查找构建产物
+# 构建产物路径（.hap 在 entry/build，.app 在项目根 build）
 HAP_DIR="$PROJECT_DIR/entry/build/default/outputs/default"
-APP_DIR="$PROJECT_DIR/entry/build/default/outputs/default"
+APP_DIR="$PROJECT_DIR/build/outputs/default"
 
 # 重命名 .hap 文件
 for f in "$HAP_DIR"/*.hap; do
