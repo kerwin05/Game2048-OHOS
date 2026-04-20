@@ -16,3 +16,5 @@
 *.p7b
 *.cer
 *.csr
+# 打包输出
+/release/
